@@ -1,5 +1,4 @@
-import datetime
-import os
+import datetime, os
 from pymed import PubMed
 import pandas as pd
 
